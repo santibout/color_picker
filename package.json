@@ -1,0 +1,15 @@
+{
+  "name": "color_picker",
+  "version": "1.0.0",
+  "description": "RGB COlor Picking Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samuel Santibout",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "jsdom": "^11.6.2"
+  }
+}
